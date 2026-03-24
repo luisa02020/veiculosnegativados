@@ -1,1 +1,1 @@
-npm ruim build
+npm run build
